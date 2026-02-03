@@ -108,7 +108,7 @@ Initially, try to get your query resolved from the FAQ and ViSakha. Check the Br
 ViSakha: https://sakha.vicharanashala.ai/
 
 Email **vinternship@vicharanashala.zohodesk.in**.  
-Mention your Name, Cohort name and Internship ID (If applicable)
+Mention your Name, Cohort name and Internship ID (If applicable)  
 Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
 Any question submitted beyond 9 PM will be answered the next day.
 

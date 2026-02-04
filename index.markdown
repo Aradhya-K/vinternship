@@ -15,80 +15,13 @@ layout: home
 
 ## 💬 Need Help?
 
-<div style="padding: 1.5rem; background: #f6f8fa; border-radius: 8px; margin: 1rem 0;">
-  <p style="margin: 0 0 1rem 0; color: #586069; font-size: 0.9rem;">Follow these steps to get your queries resolved:</p>
-  
-  <div style="display: flex; gap: 0.75rem; margin-bottom: 0.75rem; align-items: start;">
-    <span style="background: #28a745; color: white; font-weight: bold; padding: 0.3rem 0.6rem; border-radius: 4px; font-size: 0.85rem;">1</span>
-    <div style="flex: 1;">
-      <strong style="color: #28a745;">Check Telegram Broadcasts</strong> — Check the official channels for announcements and updates.
-    </div>
-  </div>
-  
-  <div style="display: flex; gap: 0.75rem; margin-bottom: 0.75rem; align-items: start;">
-    <span style="background: #0088cc; color: white; font-weight: bold; padding: 0.3rem 0.6rem; border-radius: 4px; font-size: 0.85rem;">2</span>
-    <div style="flex: 1;">
-      <strong style="color: #0088cc;">Ask Vi-Sakha (AI Assistant)</strong> — Get instant answers from our AI assistant. <a href="https://sakha.vicharanashala.ai/" target="_blank" style="color: #0088cc; font-weight: 600;">🤖 Chat now</a>
-    </div>
-  </div>
-  
-  <div style="display: flex; gap: 0.75rem; margin-bottom: 0.75rem; align-items: start;">
-    <span style="background: #6f42c1; color: white; font-weight: bold; padding: 0.3rem 0.6rem; border-radius: 4px; font-size: 0.85rem;">3</span>
-    <div style="flex: 1;">
-      <strong style="color: #6f42c1;">FAQ/Breakout Discussions</strong> — Review the <a href="./faq/" style="color: #6f42c1; font-weight: 600;">FAQ page</a> or engage with peers.
-    </div>
-  </div>
-  
-  <div style="display: flex; gap: 0.75rem; align-items: start;">
-    <span style="background: #d73a49; color: white; font-weight: bold; padding: 0.3rem 0.6rem; border-radius: 4px; font-size: 0.85rem;">4</span>
-    <div style="flex: 1;">
-      <strong style="color: #d73a49;">Support Desk</strong> — Email <a href="mailto:vinternship@vicharanashala.zohodesk.in" style="color: #d73a49; font-weight: 600;">vinternship@vicharanashala.zohodesk.in</a> with subject: <code style="background: white; padding: 0.2rem 0.4rem; border-radius: 3px; font-size: 0.8rem;">CohortName_NPTELID/FullName_YourSubject</code> <em style="color: #586069; font-size: 0.85rem;">(Response: Within 2hrs, From 9AM-9PM)</em>
-    </div>
-  </div>
-  
-  <div style="text-align: center; padding: 0.75rem; background: #fffbdd; border: 1px solid #f0e68c; border-radius: 6px; margin-top: 1rem;">
-    <p style="margin: 0; color: #856404; font-size: 0.85rem;">
-      📋 For detailed policies, visit <a href="./protocols_and_policies/" style="color: #856404; font-weight: 600;">Protocols and Policies</a>
-    </p>
-  </div>
-</div>
+{% include_relative _data/need-help-section.html %}
 
 ---
 
 ## 🔗 Important Links
 
-<div style="display: flex; gap: 1rem; margin: 1rem 0; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px; text-align: center; padding: 0.75rem; background: linear-gradient(135deg, #0088cc15 0%, #0088cc25 100%); border: 2px solid #0088cc; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,136,204,0.1);">
-    <div style="font-size: 0.95rem; color: #24292e; margin-bottom: 0.4rem;">
-      📢 <strong>Join Our Community</strong>
-    </div>
-    <div style="color: #586069; margin-bottom: 0.6rem; font-size: 0.85rem;">
-      Stay updated with common announcements and information
-    </div>
-    <a href="https://t.me/+YZfjSErJWppkZTRl" target="_blank" style="display: inline-block; padding: 0.4rem 1rem; background: #0088cc; color: white; text-decoration: none; border-radius: 4px; font-weight: 600; font-size: 0.85rem; transition: all 0.2s; box-shadow: 0 2px 4px rgba(0,136,204,0.3);">
-      💬 Join Vinternship Telegram Channel
-    </a>
-    <div style="color: #586069; margin-top: 0.6rem; font-size: 0.8rem;">
-      For cohort-specific Telegram channels, check the Forms and Links section on cohort-specific pages.
-    </div>
-  </div>
-
-  <div style="flex: 1; min-width: 300px; text-align: center; padding: 0.75rem; background: linear-gradient(135deg, #FF000015 0%, #FF000025 100%); border: 2px solid #FF0000; border-radius: 6px; box-shadow: 0 2px 8px rgba(255,0,0,0.1);">
-    <div style="font-size: 0.95rem; color: #24292e; margin-bottom: 0.4rem;">
-      🎥 <strong>MERN Stack Course</strong>
-    </div>
-    <div style="color: #586069; margin-bottom: 0.6rem; font-size: 0.85rem;">
-      Watch our MERN stack videos on YouTube
-    </div>
-    <a href="https://youtu.be/ksFx_fDMJPY?list=PL4ocL5uCKzQOHnCwuKKZGQ6N0DGXiKSS-" target="_blank" style="display: inline-block; padding: 0.4rem 1rem; background: #FF0000; color: white; text-decoration: none; border-radius: 4px; font-weight: 600; font-size: 0.85rem; transition: all 0.2s; box-shadow: 0 2px 4px rgba(255,0,0,0.3);">
-      ▶️ Watch on YouTube
-    </a>
-    <div style="color: #586069; margin-top: 0.6rem; font-size: 0.8rem;">
-      Please note that completing the course on ViBe is required, as we are tracking progress only from there. The playlist is being released to help you learn more efficiently and thoroughly.
-    </div>
-  </div>
-
-</div>
+{% include_relative _data/important-links-section.html %}
 
 ---
 
